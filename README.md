@@ -1,6 +1,8 @@
 # EDU Dash - Student Management Dashboard
-
 ![EDU Dash Logo](https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/graduation-cap.svg)
+
+![Dashboard](public/Dashboard.png)  
+*Dashboard*
 
 A modern, responsive student management dashboard built with React, TypeScript, and Tailwind CSS.
 
@@ -40,6 +42,15 @@ A modern, responsive student management dashboard built with React, TypeScript, 
 - **Icons**: Lucide React
 - **Build Tool**: Vite
 - **Router**: React Router v6
+
+## Screenshots
+
+![afterlogin](public/after login.png)  
+*After Login*
+
+![addstudent](public/add student.png)  
+*Add Student*
+
 
 ## Getting Started
 
